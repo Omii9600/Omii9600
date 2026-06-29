@@ -54,4 +54,4 @@ Data Analyst who turns large, messy datasets into decisions leaders actually use
 ## Let's connect
 
 I'm looking for Data Analyst roles. Reach me on
-[LinkedIn](https://www.linkedin.com/in/om-abhale) or [email](mailto:abhaleom96@gmail.com).
+[LinkedIn](https://www.linkedin.com/in/om-abhale-2519441a1/) or [email](mailto:abhaleom96@gmail.com).
