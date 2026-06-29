@@ -47,7 +47,7 @@ Data Analyst who turns large, messy datasets into decisions leaders actually use
 |---|---|---|
 | **[Housing Market Price Prediction](LINK)** | MSc dissertation — cross-validated ensemble models (Ridge, Random Forest, GBM) on Ames/Boston/California data; SHAP to surface the top 5 price drivers for non-technical readers. | Python, scikit-learn, SHAP |
 | **[Digital Advertising Performance Analytics](LINK)** | Analysed 1,800 campaigns across Google/Meta/TikTok; found a 4.1x ROAS gap and built a budget-reallocation framework with an executive summary. | Python, Excel |
-| **[HR Employee Attrition Analysis]([LINK](https://github.com/Omii9600/hr-attrition-analysis))** | 1,470-record HR study; built a risk scorecard tiering employees Low/Medium/High to support retention decisions. | Advanced Excel, Pivot Tables |
+| **[HR Employee Attrition Analysis]((https://github.com/Omii9600/hr-attrition-analysis))** | 1,470-record HR study; built a risk scorecard tiering employees Low/Medium/High to support retention decisions. | Advanced Excel, Pivot Tables |
 | **[Hospital Readmission Analysis](https://github.com/Omii9600/hospital-readmission-analysis)** | EDA on 66,587 patient encounters to identify readmission drivers. | Python |
 | **[Porter Delivery Analysis](https://github.com/Omii9600/porter-delivery-analysis)** | End-to-end delivery-performance analysis of ~197K orders with a live interactive dashboard. | Excel |
 
