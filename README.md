@@ -46,6 +46,7 @@ Data Analyst who turns large, messy datasets into decisions leaders actually use
 | Project | What it does | Stack |
 |---|---|---|
 | **[HR Employee Attrition Analysis](https://github.com/Omii9600/hr-attrition-analysis)** | 1,470-record HR study; built a risk scorecard tiering employees Low/Medium/High to support retention decisions. | Python, Advanced Excel |
+| **[Digital Advertising Performance Analysis](https://github.com/Omii9600/marketing-analysis)** |  This project analyzes 1,800 campaigns across 3 platforms, 4 campaign types, 5 industries, and 7 countries to answer that with evidence instead of intuition | Python,Excel |
 | **[Hospital Readmission Analysis](https://github.com/Omii9600/hospital-readmission-analysis)** | EDA on 66,587 patient encounters to identify readmission drivers. | Excel |
 | **[Porter Delivery Analysis](https://github.com/Omii9600/porter-delivery-analysis)** | End-to-end delivery-performance analysis of ~197K orders with a live interactive dashboard. | Excel |
 
